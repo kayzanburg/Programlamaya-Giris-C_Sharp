@@ -1,0 +1,7 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Carpim_Tablosu\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.csproj.CoreCompileInputs.cache

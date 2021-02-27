@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\bin\Debug\Hipotenus_Hesaplama.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\bin\Debug\Hipotenus_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\bin\Debug\Hipotenus_Hesaplama.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\obj\Debug\Hipotenus_Hesaplama.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\obj\Debug\Hipotenus_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Hipotenus_Hesaplama\Hipotenus_Hesaplama\obj\Debug\Hipotenus_Hesaplama.pdb

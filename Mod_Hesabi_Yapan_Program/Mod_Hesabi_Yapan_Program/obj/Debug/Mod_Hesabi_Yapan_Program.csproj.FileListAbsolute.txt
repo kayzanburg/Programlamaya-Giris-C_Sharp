@@ -1,0 +1,7 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\bin\Debug\Mod_Hesabi_Yapan_Program.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\bin\Debug\Mod_Hesabi_Yapan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\bin\Debug\Mod_Hesabi_Yapan_Program.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\obj\Debug\Mod_Hesabi_Yapan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\obj\Debug\Mod_Hesabi_Yapan_Program.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\obj\Debug\Mod_Hesabi_Yapan_Program.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mod_Hesabi_Yapan_Program\Mod_Hesabi_Yapan_Program\obj\Debug\Mod_Hesabi_Yapan_Program.csproj.CoreCompileInputs.cache

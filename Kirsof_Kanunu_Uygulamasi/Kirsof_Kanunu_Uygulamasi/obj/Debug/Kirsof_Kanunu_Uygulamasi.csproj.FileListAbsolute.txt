@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\bin\Debug\Kirsof_Kanunu_Uygulamasi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\bin\Debug\Kirsof_Kanunu_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\bin\Debug\Kirsof_Kanunu_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\obj\Debug\Kirsof_Kanunu_Uygulamasi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\obj\Debug\Kirsof_Kanunu_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Kirsof_Kanunu_Uygulamasi\Kirsof_Kanunu_Uygulamasi\obj\Debug\Kirsof_Kanunu_Uygulamasi.pdb

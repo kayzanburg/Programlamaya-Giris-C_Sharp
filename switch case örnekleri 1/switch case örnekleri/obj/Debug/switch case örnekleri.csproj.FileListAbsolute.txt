@@ -1,0 +1,12 @@
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\bin\Debug\switch case örnekleri.exe.config
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\obj\Debug\switch case örnekleri.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\bin\Debug\switch case örnekleri.exe
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\bin\Debug\switch case örnekleri.pdb
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\obj\Debug\switch case örnekleri.exe
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri\switch case örnekleri\obj\Debug\switch case örnekleri.pdb
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 1\switch case örnekleri\bin\Debug\switch case örnekleri.exe.config
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 1\switch case örnekleri\obj\Debug\switch case örnekleri.exe
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 1\switch case örnekleri\obj\Debug\switch case örnekleri.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\switch case örnekleri 1\switch case örnekleri\bin\Debug\switch case örnekleri.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\switch case örnekleri 1\switch case örnekleri\obj\Debug\switch case örnekleri.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\switch case örnekleri 1\switch case örnekleri\obj\Debug\switch case örnekleri.pdb

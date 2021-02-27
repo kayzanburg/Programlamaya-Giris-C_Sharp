@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\bin\Debug\İsci_Problemlerini_Cozen_Program.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\obj\Debug\İsci_Problemlerini_Cozen_Program.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\bin\Debug\İsci_Problemlerini_Cozen_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\bin\Debug\İsci_Problemlerini_Cozen_Program.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\obj\Debug\İsci_Problemlerini_Cozen_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\İsci_Problemlerini_Cozen_Program\İsci_Problemlerini_Cozen_Program\obj\Debug\İsci_Problemlerini_Cozen_Program.pdb

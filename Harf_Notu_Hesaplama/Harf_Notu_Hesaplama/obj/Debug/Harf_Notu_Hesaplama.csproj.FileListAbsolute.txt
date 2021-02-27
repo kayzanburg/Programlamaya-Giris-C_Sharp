@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\bin\Debug\Harf_Notu_Hesaplama.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\obj\Debug\Harf_Notu_Hesaplama.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\bin\Debug\Harf_Notu_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\bin\Debug\Harf_Notu_Hesaplama.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\obj\Debug\Harf_Notu_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Harf_Notu_Hesaplama\Harf_Notu_Hesaplama\obj\Debug\Harf_Notu_Hesaplama.pdb

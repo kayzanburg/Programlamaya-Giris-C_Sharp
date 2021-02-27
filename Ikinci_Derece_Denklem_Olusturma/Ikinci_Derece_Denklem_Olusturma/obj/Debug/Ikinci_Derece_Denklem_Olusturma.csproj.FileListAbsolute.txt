@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\bin\Debug\Ikinci_Derece_Denklem_Olusturma.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\bin\Debug\Ikinci_Derece_Denklem_Olusturma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\bin\Debug\Ikinci_Derece_Denklem_Olusturma.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\obj\Debug\Ikinci_Derece_Denklem_Olusturma.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\obj\Debug\Ikinci_Derece_Denklem_Olusturma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ikinci_Derece_Denklem_Olusturma\Ikinci_Derece_Denklem_Olusturma\obj\Debug\Ikinci_Derece_Denklem_Olusturma.pdb

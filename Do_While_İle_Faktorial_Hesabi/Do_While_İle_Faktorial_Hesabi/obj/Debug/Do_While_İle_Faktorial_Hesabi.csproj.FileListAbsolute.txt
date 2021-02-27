@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\bin\Debug\Do_While_İle_Faktorial_Hesabi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\bin\Debug\Do_While_İle_Faktorial_Hesabi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\bin\Debug\Do_While_İle_Faktorial_Hesabi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\obj\Debug\Do_While_İle_Faktorial_Hesabi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\obj\Debug\Do_While_İle_Faktorial_Hesabi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Do_While_İle_Faktorial_Hesabi\Do_While_İle_Faktorial_Hesabi\obj\Debug\Do_While_İle_Faktorial_Hesabi.pdb

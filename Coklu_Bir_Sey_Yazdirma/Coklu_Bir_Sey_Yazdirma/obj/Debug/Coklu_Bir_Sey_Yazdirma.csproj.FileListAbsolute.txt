@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\bin\Debug\Coklu_Bir_Sey_Yazdirma.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\bin\Debug\Coklu_Bir_Sey_Yazdirma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\bin\Debug\Coklu_Bir_Sey_Yazdirma.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\obj\Debug\Coklu_Bir_Sey_Yazdirma.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\obj\Debug\Coklu_Bir_Sey_Yazdirma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Coklu_Bir_Sey_Yazdirma\Coklu_Bir_Sey_Yazdirma\obj\Debug\Coklu_Bir_Sey_Yazdirma.pdb

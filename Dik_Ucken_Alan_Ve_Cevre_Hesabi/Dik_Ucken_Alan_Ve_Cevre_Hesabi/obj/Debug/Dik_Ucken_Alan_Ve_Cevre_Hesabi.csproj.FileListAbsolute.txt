@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\bin\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\bin\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\bin\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\obj\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\obj\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucken_Alan_Ve_Cevre_Hesabi\Dik_Ucken_Alan_Ve_Cevre_Hesabi\obj\Debug\Dik_Ucken_Alan_Ve_Cevre_Hesabi.pdb

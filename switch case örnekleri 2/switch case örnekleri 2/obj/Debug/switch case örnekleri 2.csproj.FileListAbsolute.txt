@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\bin\Debug\switch case örnekleri 2.exe.config
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\obj\Debug\switch case örnekleri 2.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\bin\Debug\switch case örnekleri 2.exe
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\bin\Debug\switch case örnekleri 2.pdb
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\obj\Debug\switch case örnekleri 2.exe
+D:\Dersler\yazılım ile ilgili\C#\Projelerim\switch case örnekleri 2\switch case örnekleri 2\obj\Debug\switch case örnekleri 2.pdb

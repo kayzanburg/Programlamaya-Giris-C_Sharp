@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\bin\Debug\Ohm_Kanunu.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\bin\Debug\Ohm_Kanunu.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\bin\Debug\Ohm_Kanunu.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\obj\Debug\Ohm_Kanunu.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\obj\Debug\Ohm_Kanunu.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ohm_Kanunu\Ohm_Kanunu\obj\Debug\Ohm_Kanunu.pdb

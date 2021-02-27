@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\bin\Debug\Yol_Hiz_Problemi_Hesaplama.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\obj\Debug\Yol_Hiz_Problemi_Hesaplama.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\bin\Debug\Yol_Hiz_Problemi_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\bin\Debug\Yol_Hiz_Problemi_Hesaplama.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\obj\Debug\Yol_Hiz_Problemi_Hesaplama.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yol_Hiz_Problemi_Hesaplama\Yol_Hiz_Problemi_Hesaplama\obj\Debug\Yol_Hiz_Problemi_Hesaplama.pdb

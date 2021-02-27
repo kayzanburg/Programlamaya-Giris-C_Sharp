@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\bin\Debug\Dik_Ucgen_Testi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\obj\Debug\Dik_Ucgen_Testi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\bin\Debug\Dik_Ucgen_Testi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\bin\Debug\Dik_Ucgen_Testi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\obj\Debug\Dik_Ucgen_Testi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Dik_Ucgen_Testi\Dik_Ucgen_Testi\obj\Debug\Dik_Ucgen_Testi.pdb

@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\bin\Debug\Degiskenin_Degerini_Bastırma.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\bin\Debug\Degiskenin_Degerini_Bastırma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\bin\Debug\Degiskenin_Degerini_Bastırma.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\obj\Debug\Degiskenin_Degerini_Bastırma.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\obj\Debug\Degiskenin_Degerini_Bastırma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma\obj\Debug\Degiskenin_Degerini_Bastırma.pdb

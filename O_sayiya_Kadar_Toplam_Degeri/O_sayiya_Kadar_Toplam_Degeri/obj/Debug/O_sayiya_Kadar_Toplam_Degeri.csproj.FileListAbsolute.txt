@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\bin\Debug\O_sayiya_Kadar_Toplam_Degeri.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\bin\Debug\O_sayiya_Kadar_Toplam_Degeri.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\bin\Debug\O_sayiya_Kadar_Toplam_Degeri.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\obj\Debug\O_sayiya_Kadar_Toplam_Degeri.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\obj\Debug\O_sayiya_Kadar_Toplam_Degeri.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\O_sayiya_Kadar_Toplam_Degeri\O_sayiya_Kadar_Toplam_Degeri\obj\Debug\O_sayiya_Kadar_Toplam_Degeri.csprojResolveAssemblyReference.cache

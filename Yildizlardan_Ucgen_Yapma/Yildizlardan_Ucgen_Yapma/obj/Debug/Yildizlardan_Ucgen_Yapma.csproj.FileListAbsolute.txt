@@ -1,0 +1,7 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\bin\Debug\Yildizlardan_Ucgen_Yapma.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\bin\Debug\Yildizlardan_Ucgen_Yapma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\bin\Debug\Yildizlardan_Ucgen_Yapma.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\obj\Debug\Yildizlardan_Ucgen_Yapma.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\obj\Debug\Yildizlardan_Ucgen_Yapma.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\obj\Debug\Yildizlardan_Ucgen_Yapma.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildizlardan_Ucgen_Yapma\Yildizlardan_Ucgen_Yapma\obj\Debug\Yildizlardan_Ucgen_Yapma.csproj.CoreCompileInputs.cache

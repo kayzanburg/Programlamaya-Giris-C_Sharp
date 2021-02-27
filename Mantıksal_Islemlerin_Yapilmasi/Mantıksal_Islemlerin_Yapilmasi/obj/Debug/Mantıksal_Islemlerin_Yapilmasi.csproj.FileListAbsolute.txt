@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\bin\Debug\Mantıksal_Islemlerin_Yapilmasi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\bin\Debug\Mantıksal_Islemlerin_Yapilmasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\bin\Debug\Mantıksal_Islemlerin_Yapilmasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\obj\Debug\Mantıksal_Islemlerin_Yapilmasi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\obj\Debug\Mantıksal_Islemlerin_Yapilmasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Mantıksal_Islemlerin_Yapilmasi\Mantıksal_Islemlerin_Yapilmasi\obj\Debug\Mantıksal_Islemlerin_Yapilmasi.pdb

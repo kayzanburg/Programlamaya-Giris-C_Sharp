@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\bin\Debug\Ekrana_Tarihi_Basan_Program.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\bin\Debug\Ekrana_Tarihi_Basan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\bin\Debug\Ekrana_Tarihi_Basan_Program.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\obj\Debug\Ekrana_Tarihi_Basan_Program.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\obj\Debug\Ekrana_Tarihi_Basan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program\obj\Debug\Ekrana_Tarihi_Basan_Program.pdb
