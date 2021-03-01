@@ -1,0 +1,9 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi\Yildiz_Ile_K_yapimi\bin\Debug\Yildiz_Ile_K_yapimi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi\Yildiz_Ile_K_yapimi\obj\Debug\Yildiz_Ile_K_yapimi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\obj\Debug\Yildiz_Ile_K_yapimi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\obj\Debug\Yildiz_Ile_K_yapimi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\bin\Debug\Yildiz_Ile_K_yapimi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\bin\Debug\Yildiz_Ile_K_yapimi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\bin\Debug\Yildiz_Ile_K_yapimi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\obj\Debug\Yildiz_Ile_K_yapimi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Yildiz_Ile_K_yapimi             +++++++\Yildiz_Ile_K_yapimi\obj\Debug\Yildiz_Ile_K_yapimi.pdb
