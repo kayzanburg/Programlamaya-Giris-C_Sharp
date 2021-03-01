@@ -1,0 +1,14 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\bin\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani          +++++++++\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani\obj\Debug\Geometrik_Sekillerin_ Cevre_Ve_Alani.csproj.CoreCompileInputs.cache
