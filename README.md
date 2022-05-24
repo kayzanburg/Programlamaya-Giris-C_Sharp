@@ -2,4 +2,4 @@
 (Alistirmalar)
 
 
-C# Alanında Yaptığım Çalışmalardır, Code Yazmaya Başladığım İlk Dil Budur ( Haliyle Temel Seviye, Öğrenmeye Yönelik Çalışmalar Yaptım )
+C# Alanında Yaptığım Çalışmalardır, Code Yazmaya Başladığım İlk Dil Budur ( Öğrenmeye Yönelik Çalışmalar Yaptım )
